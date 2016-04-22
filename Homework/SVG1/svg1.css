@@ -1,0 +1,32 @@
+/*Stijn Robben*/
+/*10559558*/
+
+/*Stylesheet*/
+
+/*Data Processing*/
+/*Week 2*/
+
+/* continent color */
+.continent
+{
+  
+}
+
+/* country colors */
+#fra
+{
+  fill: green;
+}
+
+#swe
+{
+    fill: yellow;
+}
+#nld
+{
+    fill: orange;
+}
+#de
+{
+    fill: red;
+}
