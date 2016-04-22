@@ -1,0 +1,22 @@
+/*Stijn Robben*/
+/*10559558*/
+
+/*Stylesheet*/
+
+/*Data Processing*/
+/*Week 2*/
+
+/* continent color */
+#data
+{
+	visibility: hidden;
+}
+#header
+{
+	font-family: georgia;
+	font-size: 13px;
+}
+body
+{
+	background-color: grey;
+}
