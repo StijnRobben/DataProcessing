@@ -1,0 +1,15 @@
+body{
+	background-color:#ffffff;
+}
+#data{
+	visibility: hidden;
+}
+
+h1{
+	font-family: arial;
+	font-size: 40px;
+}
+h6{
+	font-family: times;
+	font-size: 13px;
+}

@@ -1,0 +1,772 @@
+[
+  {
+    "name": "Qatar",
+    "GDP": "140649.2",
+    "country code": "QAT"
+  },
+  {
+    "name": "MacaoSAR,China",
+    "GDP": "139767.3",
+    "country code": "LUX"
+  },
+  {
+    "name": "Luxembourg",
+    "GDP": "98459.5",
+    "country code": "SGP"
+  },
+  {
+    "name": "Singapore",
+    "GDP": "82763.0",
+    "country code": "KWT"
+  },
+  {
+    "name": "Kuwait",
+    "GDP": "73245.7",
+    "country code": "BRN"
+  },
+  {
+    "name": "BruneiDarussalam",
+    "GDP": "71184.8",
+    "country code": "ARE"
+  },
+  {
+    "name": "United Arab Emirates",
+    "GDP": "67674.1",
+    "country code": "NOR"
+  },
+  {
+    "name": "Norway",
+    "GDP": "65614.5",
+    "country code": "CHE"
+  },
+  {
+    "name": "Switzerland",
+    "GDP": "59539.8",
+    "country code": "USA"
+  },
+  {
+    "name": "HongKongSAR ,China",
+    "GDP": "55084.3",
+    "country code": "SAU"
+  },
+  {
+    "name": "UnitedStates",
+    "GDP": "54629.5",
+    "country code": "IRL"
+  },
+  {
+    "name": "SaudiArabia",
+    "GDP": "52010.2",
+    "country code": "NLD"
+  },
+  {
+    "name": "Ireland",
+    "GDP": "49393.2",
+    "country code": "AUT"
+  },
+  {
+    "name": "Netherlands",
+    "GDP": "48253.3",
+    "country code": "DEU"
+  },
+  {
+    "name": "Austria",
+    "GDP": "47682.3",
+    "country code": "AUS"
+  },
+  {
+    "name": "Germany",
+    "GDP": "46400.6",
+    "country code": "DNK"
+  },
+  {
+    "name": "Australia",
+    "GDP": "45925.5",
+    "country code": "BHR"
+  },
+  {
+    "name": "Denmark",
+    "GDP": "45536.5",
+    "country code": "SWE"
+  },
+  {
+    "name": "Bahrain",
+    "GDP": "45500.2",
+    "country code": "CAN"
+  },
+  {
+    "name": "Sweden",
+    "GDP": "45297.0",
+    "country code": "ISL"
+  },
+  {
+    "name": "Canada",
+    "GDP": "45065.7",
+    "country code": "BEL"
+  },
+  {
+    "name": "Iceland",
+    "GDP": "43993.3",
+    "country code": "FIN"
+  },
+  {
+    "name": "Belgium",
+    "GDP": "43434.7",
+    "country code": "GBR"
+  },
+  {
+    "name": "Finland",
+    "GDP": "40675.9",
+    "country code": "FRA"
+  },
+  {
+    "name": "UnitedKingdom",
+    "GDP": "40233.2",
+    "country code": "OMN"
+  },
+  {
+    "name": "France",
+    "GDP": "39327.9",
+    "country code": "NZL"
+  },
+  {
+    "name": "Oman",
+    "GDP": "38630.7",
+    "country code": "JPN"
+  },
+  {
+    "name": "NewZealand",
+    "GDP": "37679.0",
+    "country code": "ITA"
+  },
+  {
+    "name": "Japan",
+    "GDP": "36619.4",
+    "country code": "GNQ"
+  },
+  {
+    "name": "Italy",
+    "GDP": "35462.8",
+    "country code": "ISR"
+  },
+  {
+    "name": "EquatorialGuinea",
+    "GDP": "34739.1",
+    "country code": "ESP"
+  },
+  {
+    "name": "Israel",
+    "GDP": "33703.4",
+    "country code": "TTO"
+  },
+  {
+    "name": "Spain",
+    "GDP": "33628.9",
+    "country code": "CZE"
+  },
+  {
+    "name": "Korea,Rep.",
+    "GDP": "33394.8",
+    "country code": "SVN"
+  },
+  {
+    "name": "TrinidadandTobago",
+    "GDP": "31967.2",
+    "country code": "CYP"
+  },
+  {
+    "name": "CzechRepublic",
+    "GDP": "31185.9",
+    "country code": "PRT"
+  },
+  {
+    "name": "Slovenia",
+    "GDP": "30402.7",
+    "country code": "EST"
+  },
+  {
+    "name": "Cyprus",
+    "GDP": "30239.3",
+    "country code": "LTU"
+  },
+  {
+    "name": "Portugal",
+    "GDP": "28760.0",
+    "country code": "GRC"
+  },
+  {
+    "name": "SlovakRepublic",
+    "GDP": "28326.5",
+    "country code": "SYC"
+  },
+  {
+    "name": "Estonia",
+    "GDP": "28139.9",
+    "country code": "MYS"
+  },
+  {
+    "name": "Lithuania",
+    "GDP": "27685.9",
+    "country code": "POL"
+  },
+  {
+    "name": "Greece",
+    "GDP": "26850.9",
+    "country code": "HUN"
+  },
+  {
+    "name": "Seychelles",
+    "GDP": "26422.0",
+    "country code": "KAZ"
+  },
+  {
+    "name": "Malaysia",
+    "GDP": "25638.6",
+    "country code": "LVA"
+  },
+  {
+    "name": "Poland",
+    "GDP": "25261.6",
+    "country code": "RUS"
+  },
+  {
+    "name": "Hungary",
+    "GDP": "25068.9",
+    "country code": "ATG"
+  },
+  {
+    "name": "Kazakhstan",
+    "GDP": "24227.7",
+    "country code": "CHL"
+  },
+  {
+    "name": "Latvia",
+    "GDP": "23547.9",
+    "country code": "HRV"
+  },
+  {
+    "name": "Bahamas,The",
+    "GDP": "23491.1",
+    "country code": "PAN"
+  },
+  {
+    "name": "St.KittsandNevis",
+    "GDP": "23239.5",
+    "country code": "URY"
+  },
+  {
+    "name": "RussianFederation",
+    "GDP": "22989.6",
+    "country code": "ROU"
+  },
+  {
+    "name": "AntiguaandBarbuda",
+    "GDP": "22076.9",
+    "country code": "TUR"
+  },
+  {
+    "name": "Chile",
+    "GDP": "22071.1",
+    "country code": "GAB"
+  },
+  {
+    "name": "Croatia",
+    "GDP": "21635.1",
+    "country code": "MUS"
+  },
+  {
+    "name": "Panama",
+    "GDP": "20894.7",
+    "country code": "BLR"
+  },
+  {
+    "name": "Uruguay",
+    "GDP": "20884.3",
+    "country code": "AZE"
+  },
+  {
+    "name": "Romania",
+    "GDP": "20348.1",
+    "country code": "LBN"
+  },
+  {
+    "name": "Turkey",
+    "GDP": "19787.7",
+    "country code": "MEX"
+  },
+  {
+    "name": "Gabon",
+    "GDP": "19430.1",
+    "country code": "BGR"
+  },
+  {
+    "name": "Mauritius",
+    "GDP": "18585.4",
+    "country code": "SUR"
+  },
+  {
+    "name": "Belarus",
+    "GDP": "18184.9",
+    "country code": "BWA"
+  },
+  {
+    "name": "Azerbaijan",
+    "GDP": "17520.7",
+    "country code": "BRB"
+  },
+  {
+    "name": "Lebanon",
+    "GDP": "17462.2",
+    "country code": "BRA"
+  },
+  {
+    "name": "Mexico",
+    "GDP": "17314.7",
+    "country code": "THA"
+  },
+  {
+    "name": "Iran,IslamicRep.",
+    "GDP": "17302.6",
+    "country code": "LBY"
+  },
+  {
+    "name": "Bulgaria",
+    "GDP": "17207.6",
+    "country code": "TKM"
+  },
+  {
+    "name": "Suriname",
+    "GDP": "16637.6",
+    "country code": "IRQ"
+  },
+  {
+    "name": "Botswana",
+    "GDP": "16099.3",
+    "country code": "MNE"
+  },
+  {
+    "name": "Barbados",
+    "GDP": "16057.8",
+    "country code": "CRI"
+  },
+  {
+    "name": "Brazil",
+    "GDP": "15893.2",
+    "country code": "PLW"
+  },
+  {
+    "name": "Thailand",
+    "GDP": "15735.1",
+    "country code": "DZA"
+  },
+  {
+    "name": "Libya",
+    "GDP": "15597.1",
+    "country code": "SRB"
+  },
+  {
+    "name": "Turkmenistan",
+    "GDP": "15473.6",
+    "country code": "COL"
+  },
+  {
+    "name": "Iraq",
+    "GDP": "15057.1",
+    "country code": "DOM"
+  },
+  {
+    "name": "Montenegro",
+    "GDP": "15054.7",
+    "country code": "CHN"
+  },
+  {
+    "name": "CostaRica",
+    "GDP": "14918.1",
+    "country code": "ZAF"
+  },
+  {
+    "name": "Palau",
+    "GDP": "14756.7",
+    "country code": "MDV"
+  },
+  {
+    "name": "Algeria",
+    "GDP": "14193.4",
+    "country code": "GRD"
+  },
+  {
+    "name": "Serbia",
+    "GDP": "13594.1",
+    "country code": "JOR"
+  },
+  {
+    "name": "Macedonia,FYR",
+    "GDP": "13523.0",
+    "country code": "PER"
+  },
+  {
+    "name": "Colombia",
+    "GDP": "13357.1",
+    "country code": "MNG"
+  },
+  {
+    "name": "DominicanRepublic",
+    "GDP": "13262.3",
+    "country code": "TUN"
+  },
+  {
+    "name": "China",
+    "GDP": "13206.4",
+    "country code": "ECU"
+  },
+  {
+    "name": "SouthAfrica",
+    "GDP": "13049.3",
+    "country code": "LKA"
+  },
+  {
+    "name": "Maldives",
+    "GDP": "12529.7",
+    "country code": "ALB"
+  },
+  {
+    "name": "Grenada",
+    "GDP": "12425.0",
+    "country code": "DMA"
+  },
+  {
+    "name": "Jordan",
+    "GDP": "12050.3",
+    "country code": "IDN"
+  },
+  {
+    "name": "Peru",
+    "GDP": "11988.9",
+    "country code": "BIH"
+  },
+  {
+    "name": "Mongolia",
+    "GDP": "11945.7",
+    "country code": "NAM"
+  },
+  {
+    "name": "Tunisia",
+    "GDP": "11435.6",
+    "country code": "GEO"
+  },
+  {
+    "name": "Ecuador",
+    "GDP": "11371.7",
+    "country code": "PRY"
+  },
+  {
+    "name": "SriLanka",
+    "GDP": "11110.2",
+    "country code": "JAM"
+  },
+  {
+    "name": "Albania",
+    "GDP": "11108.0",
+    "country code": "FJI"
+  },
+  {
+    "name": "Dominica",
+    "GDP": "10877.3",
+    "country code": "UKR"
+  },
+  {
+    "name": "St.Lucia",
+    "GDP": "10733.0",
+    "country code": "BLZ"
+  },
+  {
+    "name": "St.VincentandtheGrenadines",
+    "GDP": "10727.3",
+    "country code": "SLV"
+  },
+  {
+    "name": "Egypt,ArabRep.",
+    "GDP": "10532.9",
+    "country code": "SWZ"
+  },
+  {
+    "name": "Indonesia",
+    "GDP": "10517.0",
+    "country code": "ARM"
+  },
+  {
+    "name": "BosniaandHerzegovina",
+    "GDP": "10426.9",
+    "country code": "BTN"
+  },
+  {
+    "name": "Namibia",
+    "GDP": "9955.5",
+    "country code": "MAR"
+  },
+  {
+    "name": "Georgia",
+    "GDP": "9162.9",
+    "country code": "GTM"
+  },
+  {
+    "name": "Paraguay",
+    "GDP": "8911.4",
+    "country code": "PHL"
+  },
+  {
+    "name": "Jamaica",
+    "GDP": "8877.7",
+    "country code": "NGA"
+  },
+  {
+    "name": "Fiji",
+    "GDP": "8792.4",
+    "country code": "WSM"
+  },
+  {
+    "name": "Ukraine",
+    "GDP": "8665.5",
+    "country code": "IND"
+  },
+  {
+    "name": "Belize",
+    "GDP": "8416.8",
+    "country code": "UZB"
+  },
+  {
+    "name": "ElSalvador",
+    "GDP": "8351.1",
+    "country code": "TON"
+  },
+  {
+    "name": "Swaziland",
+    "GDP": "8292.1",
+    "country code": "NIC"
+  },
+  {
+    "name": "Armenia",
+    "GDP": "8069.7",
+    "country code": "HND"
+  },
+  {
+    "name": "Bhutan",
+    "GDP": "7815.7",
+    "country code": "PAK"
+  },
+  {
+    "name": "Morocco",
+    "GDP": "7490.7",
+    "country code": "GHA"
+  },
+  {
+    "name": "Guatemala",
+    "GDP": "7454.3",
+    "country code": "SDN"
+  },
+  {
+    "name": "Philippines",
+    "GDP": "6969.0",
+    "country code": "MRT"
+  },
+  {
+    "name": "Bolivia",
+    "GDP": "6629.8",
+    "country code": "ZMB"
+  },
+  {
+    "name": "CaboVerde",
+    "GDP": "6519.5",
+    "country code": "MHL"
+  },
+  {
+    "name": "Congo,Rep.",
+    "GDP": "6276.8",
+    "country code": "TUV"
+  },
+  {
+    "name": "Nigeria",
+    "GDP": "5911.2",
+    "country code": "DJI"
+  },
+  {
+    "name": "Samoa",
+    "GDP": "5789.0",
+    "country code": "KHM"
+  },
+  {
+    "name": "India",
+    "GDP": "5700.7",
+    "country code": "STP"
+  },
+  {
+    "name": "Vietnam",
+    "GDP": "5629.0",
+    "country code": "BGD"
+  },
+  {
+    "name": "Uzbekistan",
+    "GDP": "5573.1",
+    "country code": "VUT"
+  },
+  {
+    "name": "LaoPDR",
+    "GDP": "5320.9",
+    "country code": "CMR"
+  },
+  {
+    "name": "Tonga",
+    "GDP": "5211.1",
+    "country code": "KEN"
+  },
+  {
+    "name": "Moldova",
+    "GDP": "4982.6",
+    "country code": "PNG"
+  },
+  {
+    "name": "Nicaragua",
+    "GDP": "4918.3",
+    "country code": "TJK"
+  },
+  {
+    "name": "Honduras",
+    "GDP": "4908.7",
+    "country code": "LSO"
+  },
+  {
+    "name": "Pakistan",
+    "GDP": "4811.4",
+    "country code": "NPL"
+  },
+  {
+    "name": "WestBankandGaza",
+    "GDP": "4509.0",
+    "country code": "SEN"
+  },
+  {
+    "name": "Ghana",
+    "GDP": "4081.7",
+    "country code": "TLS"
+  },
+  {
+    "name": "Sudan",
+    "GDP": "4069.3",
+    "country code": "TCD"
+  },
+  {
+    "name": "Mauritania",
+    "GDP": "3911.8",
+    "country code": "SLB"
+  },
+  {
+    "name": "Zambia",
+    "GDP": "3904.0",
+    "country code": "BEN"
+  },
+  {
+    "name": "MarshallIslands",
+    "GDP": "3802.7",
+    "country code": "SSD"
+  },
+  {
+    "name": "Tuvalu",
+    "GDP": "3765.3",
+    "country code": "SLE"
+  },
+  {
+    "name": "Micronesia,Fed.Sts.",
+    "GDP": "3330.5",
+    "country code": "AFG"
+  },
+  {
+    "name": "KyrgyzRepublic",
+    "GDP": "3321.5",
+    "country code": "KIR"
+  },
+  {
+    "name": "Djibouti",
+    "GDP": "3270.4",
+    "country code": "ZWE"
+  },
+  {
+    "name": "Cambodia",
+    "GDP": "3262.6",
+    "country code": "UGA"
+  },
+  {
+    "name": "Coted'Ivoire",
+    "GDP": "3258.2",
+    "country code": "HTI"
+  },
+  {
+    "name": "SaoTomeandPrincipe",
+    "GDP": "3176.3",
+    "country code": "RWA"
+  },
+  {
+    "name": "Bangladesh",
+    "GDP": "3122.7",
+    "country code": "BFA"
+  },
+  {
+    "name": "Vanuatu",
+    "GDP": "3030.6",
+    "country code": "MLI"
+  },
+  {
+    "name": "Cameroon",
+    "GDP": "2972.2",
+    "country code": "ETH"
+  },
+  {
+    "name": "Kenya",
+    "GDP": "2954.1",
+    "country code": "MDG"
+  },
+  {
+    "name": "PapuaNewGuinea",
+    "GDP": "2854.7",
+    "country code": "COM"
+  },
+  {
+    "name": "Tajikistan",
+    "GDP": "2690.8",
+    "country code": "TGO"
+  },
+  {
+    "name": "Lesotho",
+    "GDP": "2638.3",
+    "country code": "GNB"
+  },
+  {
+    "name": "Tanzania",
+    "GDP": "2537.9",
+    "country code": "GIN"
+  },
+  {
+    "name": "Nepal",
+    "GDP": "2374.2",
+    "country code": "MOZ"
+  },
+  {
+    "name": "Senegal",
+    "GDP": "2333.1",
+    "country code": "NER"
+  },
+  {
+    "name": "Timor-Leste",
+    "GDP": "2227.0",
+    "country code": "LBR"
+  },
+  {
+    "name": "Chad",
+    "GDP": "2182.0",
+    "country code": "MWI"
+  },
+  {
+    "name": "SolomonIslands",
+    "GDP": "2130.4",
+    "country code": "BDI"
+  }
+]
