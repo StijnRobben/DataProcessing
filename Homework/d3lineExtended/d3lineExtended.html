@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>Multi-linegraph Maastricht weather</title>              
+                <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+                <link rel="stylesheet" href = "d3lineExtended.css"> 
+                <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+                <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>                 
+        </head>
+        <body>
+                <h1>January temperatures Maastricht 2015</h1>
+                <script src = "d3lineExtended.js"></script>
+                <h4>data obtained from &copy; <a href = "http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi">KNMI</a><h4>
+                <center><h6>Stijn Robben: 10559558<h6><center>
+                <div id="Janbutton">
+                    <input name="updateButton" 
+                           type="button" 
+                           value="January" 
+                           onclick="updateData('JanuaryData.json')" />
+                </div>
+                <div id="Julbutton">
+                    <input name="updateButton" 
+                           type="button" 
+                           value="July" 
+                           onclick="updateData('JulyData.json')" />
+                </div>
+        </body>
+</html>
